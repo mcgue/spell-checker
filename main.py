@@ -1,4 +1,5 @@
-# Proofreading Program from ChatGPT
+# Proofreading program made with assistance from ChatGPT
+
 from autocorrect import Speller
 
 def proofread_text(text):
